@@ -9,9 +9,9 @@
 > ## How to study?
 > ### how to place a folder or file?
 > you should place the folder or file you create on the right page. 
-> 1. The first page is any sites of algorithm problems. for example, it can be Leetcode, Baekjoon and Kickstart. also, it must be a folder
-> 2. The second page below a folder on the first page is the name of a problem you chose. it also must be a folder.
-> 3. The third page below a folder on the second page is about who you are. so its name must be your name. for example, it should be "Steven" in my case. besides, it's supposed to include your code and **five steps** files. therefore, it must be a folder as well. (**five steps** is explained below) 
+> 1. The start page is any sites of algorithm problems. for example, it can be Leetcode, Baekjoon and Kickstart. also, it must be a folder
+> 2. The middle page between the start and the last page is the paths of a problem you chose. it also must be a folder. for example, if there is a problem called 'a1' which of paths is "Alphabets/~/a1", this page is supposed to be ~ part
+> 3. The last page is about who you are. so its name must be your name. for example, it should be "Steven" in my case. besides, it's supposed to include your code and **five steps** files. therefore, it must be a folder as well. (**five steps** is explained below) 
 >
 >  ### how to review each other?
 >  It basically uses the concepts of commit and searching a history log etc. so you should know how to use git at least. here is a link for those who don't know git [git document](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC%EB%9E%80?) (it's a korean version)
