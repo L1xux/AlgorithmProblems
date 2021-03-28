@@ -12,10 +12,10 @@ the constraints of this problem are
 * Time limit: 10 seconds per test set.  
 * Memory limit: 1GB.
 
-1 ≤ **T** ≤ 100 (T is a test case) 
-1 ≤ **H[i]** ≤ 100
-3 ≤  **N**  ≤ 5 (for test set 1)  
-3 ≤  **N**  ≤ 100 (for test set 2)
+* 1 ≤ **T** ≤ 100 (T is a test case) 
+* 1 ≤ **H[i]** ≤ 100
+* 3 ≤  **N**  ≤ 5 (for test set 1)  
+* 3 ≤  **N**  ≤ 100 (for test set 2)
 
 ## 2. Redefine
  P (_peak_) can be defined as when 1 <= i < N -1, and H[i-1] < H[i] > H[i+1] 
