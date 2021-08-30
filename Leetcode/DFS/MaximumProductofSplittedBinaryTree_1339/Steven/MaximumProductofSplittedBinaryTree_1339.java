@@ -13,15 +13,6 @@ import java.io.OutputStreamWriter;
  *	(Note that you need to maximize the answer before taking the mod and not after taking it.)
  */
 
-/*
- * 1. 바이너리 트리에서 하나의 edge를 제거해서 쪼개진 두 개의 subtrees의 곱셈이 최대가 되게 하라. 
- * 2. Maximize S1 * S2 (S is a subtree) 
- * 3. 	A. dfs로 tree의 전체합을 구할 수 있다. 
- * 		B. dfs로 구해진 tree에서 (node - child node) * child node를 candidate로 둔다. (child node는 left와 right를 의미한다.)
- * 
- * 4. dfs로 각 노드를 한번 씩 travesal한다. 또한 candidate 구할 때 각 노드를 한번 씩 방문하므로 time complexity는 O(N)므로 충분히 통과할 수 있다.
- * 
- */
 
 
 class TreeNode{
@@ -68,7 +59,7 @@ public class MaximumProductofSplittedBinaryTree_1339 {
 	
     public static int solve(TreeNode root) {
         dfs(root);
-		return (int)(getMiximumValue(root, root.val, 0) % MOD);
+	return (int)(getMiximumValue(root, root.val, 0) % MOD);
     }
 	
 	public static void main(String[] args) throws Exception {
