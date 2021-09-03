@@ -6,6 +6,11 @@
 <br />
 <br />
 
+> ## Prerequisite
+> Actually, you don't need to prepare for specific things. because first, every programming languages is allowed here. you can solve a problem with a confident language. but when you review someone's code, you should read it at least. second, you can write a five steps in korean if you want. third, if you don't know how to use Markdown or git, let me give u links to learn them. [Markdown](https://heropy.blog/2017/09/30/markdown/) [git document](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC%EB%9E%80?) (it's a korean version) (especially, you can learn git from 1 to 3 chapter.)
+>
+
+
 > ## How to study?
 > ### how to place a folder or file?
 > you should place the folder or file you create on the right page. 
@@ -14,8 +19,8 @@
 > 3. The last page is about who you are. so its name must be your name. for example, it should be "Steven" in my case. besides, it's supposed to include your code and **five steps** files. therefore, it must be a folder as well. (**five steps** is explained below) for example, let's say "a problem called b1 which of type is dfs on Kickstart and your name is Steven", it should be placed in "Kickstart/dfs/b1/Steven"
 >
 >  ### how to review each other?
->  you basically review someone's code in their repo. for example, let's say Steven solved a problem called 'a1'. Sara wanna review his code. she goes to his repo 'Leetcode/dfs/a1/Steven' and make a review script named as Sara.md. after that, she commits it. (Btw, you can study how to use git in this page) [git document](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC%EB%9E%80?) (it's a korean version)
-> 
+>  you basically review someone's code in their repo. for example, let's say Steven solved a problem called 'a1'. Sara wanna review his code. she goes to his repo 'Leetcode/dfs/a1/Steven' and make a review script named as Sara.md. after that, she commits it. (Btw, you can study how to use git in this page) 
+
 >  **Here is steps for reviewer**  
 >  1. you pick up anyone you want to review on someone's folder
 >  2. Please including the explanation why your approach is better than owner's code in review file.
