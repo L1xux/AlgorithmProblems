@@ -4,17 +4,6 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
 
-/**
- * 
- * @author mr938
- *	Given the root of a binary tree, split the binary tree into two subtrees by removing one edge such 
- *	that the product of the sums of the subtrees is maximized.
- *	Return the maximum product of the sums of the two subtrees. Since the answer may be too large, return it modulo 109 + 7.
- *	(Note that you need to maximize the answer before taking the mod and not after taking it.)
- */
-
-
-
 class TreeNode{
 	int val;
 	TreeNode left;
@@ -31,7 +20,7 @@ class TreeNode{
 	}
 }
 
-public class MaximumProductofSplittedBinaryTree_1339 {
+public class Steven {
 	private static final int MOD = (int)(Math.pow(10, 9)) + 7;
 	
 	public static long dfs(TreeNode root) {
