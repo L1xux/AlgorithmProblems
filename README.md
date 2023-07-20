@@ -1,7 +1,7 @@
 # Algorithm
 
 > ## What is purpose?
-> `Purpose` is studying a lot of algorithm problems in terms of dynamic programming, graph, tree etc. indeed, I wish this PS would be a good practice to get a job at the **largest tech companies** as well as becoming a better engineer than any others
+> `Purpose` is studying a lot of algorithm problems in terms of dynamic programming, graph, tree etc. indeed, I wish this PS would be a good practice to get a job at the **great tech companies** that you wanna work in as well as becoming a better engineer than any others
 
 <br />
 <br />
